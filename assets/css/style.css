@@ -58,7 +58,6 @@ Default CSS
 
 
 :root {
-    /* --main-color: #a5190e; */
     --main-color: #589f46;
     --sub-color: #00d084;
     --white-color: #ffffff;
@@ -561,6 +560,7 @@ section {
 
 .theme_search_form_tabbtn .nav-item {
     margin-right: 20px;
+    
 }
 
 .theme_search_form_tabbtn .nav-item:last-child {
